@@ -1,0 +1,14 @@
+{
+  "name": "mobilise-mac-mailer",
+  "displayName": "Mobilise Mac Mailer",
+  "version": "1.0.0",
+  "description": "Send and draft email through Microsoft Outlook on your Mac, from your own account and signature. Supports CC, BCC and attachments, with an optional recipient allowlist, an hourly send limit and a local activity log.",
+  "author": {
+    "name": "Mobilise App Lab Limited",
+    "url": "https://www.mobilise.co.in"
+  },
+  "homepage": "https://github.com/mobiliseapplabllp/mobilise-mac-mailer",
+  "repository": "https://github.com/mobiliseapplabllp/mobilise-mac-mailer",
+  "license": "MIT",
+  "keywords": ["email", "outlook", "macos", "mail", "productivity"]
+}
