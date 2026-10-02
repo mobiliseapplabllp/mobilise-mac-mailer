@@ -9,6 +9,16 @@
   },
   "homepage": "https://github.com/mobiliseapplabllp/mobilise-mac-mailer",
   "repository": "https://github.com/mobiliseapplabllp/mobilise-mac-mailer",
+  "documentationUrl": "https://github.com/mobiliseapplabllp/mobilise-mac-mailer#readme",
+  "supportUrl": "https://github.com/mobiliseapplabllp/mobilise-mac-mailer/issues",
+  "privacyPolicyUrl": "https://github.com/mobiliseapplabllp/mobilise-mac-mailer/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/mobiliseapplabllp/mobilise-mac-mailer/blob/main/LICENSE",
   "license": "MIT",
-  "keywords": ["email", "outlook", "macos", "mail", "productivity"]
+  "keywords": [
+    "email",
+    "outlook",
+    "macos",
+    "mail",
+    "productivity"
+  ]
 }
